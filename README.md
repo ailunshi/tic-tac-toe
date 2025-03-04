@@ -1,2 +1,2 @@
 # tic-tac-toe
-Created with CodeSandbox
+Simple little tic-tac-toe game with history play-back feature. Built with React.
